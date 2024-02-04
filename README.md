@@ -1,2 +1,3 @@
 # Python-Flet
-In these repo in i am commit the things i have learned from basics to advanced
+
+To use these basic Flet apps in your system locally with python you can easily download python and Flet and then run that particular program
